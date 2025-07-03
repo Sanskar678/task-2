@@ -46,7 +46,7 @@ Download the full analysis here:
 Install required packages with:
 ```bash
 pip install pandas matplotlib seaborn
-
+```
 ---
 📌 Project Structure
 plaintext
