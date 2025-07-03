@@ -48,7 +48,7 @@ Install required packages with:
 pip install pandas matplotlib seaborn
 ```
 ---
-📌 Project Structure
+### 📌 Project Structure
 plaintext
 Copy
 Edit
