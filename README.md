@@ -46,3 +46,13 @@ Download the full analysis here:
 Install required packages with:
 ```bash
 pip install pandas matplotlib seaborn
+
+---
+📌 Project Structure
+plaintext
+Copy
+Edit
+├── tested.csv                   # Dataset file
+├── EDA_Report_Titanic_Test.pdf # Final EDA PDF report
+├── titanic_eda.ipynb           # (optional) EDA notebook
+└── README.md                   # Project overview
